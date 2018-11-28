@@ -1,0 +1,18 @@
+h1{
+    font-family: Arial, sans-serif;
+    font-weight: normal;
+    text-decoration: underline;
+    text-align: center;
+    color: red;
+    text-transform: capitalize;
+}
+p{
+    font-family: Ranga, sans-serif;
+}
+
+#h3-1{
+    font-size: 100px;
+}
+.h3-body{
+    color: blue;
+}
